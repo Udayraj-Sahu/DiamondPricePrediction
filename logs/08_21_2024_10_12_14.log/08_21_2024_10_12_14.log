@@ -1,0 +1,8 @@
+[2024-08-21 10:12:15,499] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-08-21 10:12:15,509] 97 werkzeug - INFO -  * Debugger PIN: 145-204-838
+[2024-08-21 10:12:17,391] 97 werkzeug - INFO - 127.0.0.1 - - [21/Aug/2024 10:12:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-08-21 10:12:17,460] 97 werkzeug - INFO - 127.0.0.1 - - [21/Aug/2024 10:12:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-08-21 10:12:17,463] 97 werkzeug - INFO - 127.0.0.1 - - [21/Aug/2024 10:12:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-08-21 10:12:17,493] 97 werkzeug - INFO - 127.0.0.1 - - [21/Aug/2024 10:12:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-08-21 10:12:17,630] 97 werkzeug - INFO - 127.0.0.1 - - [21/Aug/2024 10:12:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-08-21 10:12:30,551] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\udayr\\OneDrive\\Desktop\\GemPricePrediction\\app.py', reloading
